@@ -1,0 +1,25 @@
+body {
+	background: #fff;
+	color: #543827;
+}
+
+#container {
+	width: 400px;
+	margin: 40px auto 0;
+	box-sizing: border-box;
+	box-shadow: 0 10px 15px -8px #000;
+	padding: 40px;
+	border-radius: 5px;
+}
+
+#calculate {
+	margin-top: 40px;
+}
+
+#calculator {
+	margin-bottom: 40px;
+}
+
+h1 {
+	text-align: center;
+}
